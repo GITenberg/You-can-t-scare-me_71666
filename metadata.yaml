@@ -1,0 +1,32 @@
+_repo: You-can-t-scare-me_71666
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farrell, Henry
+    aliases:
+    - Myers, Charles Farrell
+    - Myers, Charles F.
+    - Myers, Charles Henry
+    birthdate: 1920
+    deathdate: 2006
+    gutenberg_agent_id: '53188'
+    url: http://www.gutenberg.org/2009/agents/53188
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Farrell
+description: ''
+gutenberg_issued: '2023-09-16'
+identifiers:
+  gutenberg: '71666'
+language: en
+pgterms:marc905: 20230821071624myers
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aChicago, IL :$bZiff-Davis Publishing Company, $c1947.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: You can't scare me!
+url: http://www.gutenberg.org/ebooks/71666
